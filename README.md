@@ -1,35 +1,19 @@
 # Hi, I'm Murad Imre
 
-I'm a software and AI engineer with experience building backend systems, AI-powered products, computer-vision pipelines, networking systems, and developer tools.
+Software and AI engineer and recent Rice University Computer Science graduate.
 
-I recently graduated from Rice University with a B.S. in Computer Science and minors in Data Science and Business.
+Currently building speech-analysis and pronunciation-feedback features at **Tajweed Mate**, while exploring generative AI video pipelines and multimodal systems.
 
-## What I'm Working On
+## Featured Projects
 
-I'm currently expanding my experience with production-grade AI systems, multimodal workflows, speech APIs, and reliable pipelines built around generative models.
+* **NoSQL Document Database** — Go, REST APIs, JSON Schema, concurrency
+* **Probabilistic Filter Experiments** — Bloom, Counting Bloom, and Cuckoo filters
+* **Intra-Domain Routing Engine** — C++, Distance Vector routing, fault recovery
+* **AI Pronunciation Trainer** — Speech analysis and structured feedback
+* **Knot Mates** — Cross-platform campus dining and social application
 
-At **Tajweed Mate**, Im developing AI-powered product features involving speech analysis, pronunciation feedback, and structured evaluation workflows. I'm also exploring generative AI video pipelines, including prompt orchestration, character consistency, multimodal inputs, and multi-scene video generation.
+Most of my professional and research work is private due to company, product, or academic restrictions.
 
-## Featured Work
+## Outside of Tech
 
-* **NoSQL Document Database:** A Go-based document database supporting authentication, JSON-schema validation, patch operations, RESTful APIs, and concurrent data structures.
-
-* **Probabilistic Filter Experiments:** An experimental comparison of Bloom, Counting Bloom, and Cuckoo filters under Zipf-distributed workloads, evaluating memory efficiency, false-positive rates, lookup latency, and throughput.
-
-* **Intra-Domain Routing Engine:** A C++ Distance Vector routing implementation supporting neighbor discovery, dynamic link changes, failure detection, poison reverse, route expiration, and automatic rerouting.
-
-* **AI Pronunciation Trainer:** An AI-assisted pronunciation-learning prototype that analyzes spoken language and generates structured feedback for learners.
-
-* **Knot Mates:** A cross-platform campus application for discovering dining locations, sharing real-time availability, and connecting students through personalized recommendations.
-
-* **Marble Solitaire:** An experimental puzzle application exploring interactive game logic, state-space search, and automated solution finding.
-
-## Professional Experience
-
-I've worked on autonomous-drone computer vision and 3D reconstruction at Milkor, real-time backend systems at SLB, biomedical NLP research, and features for a deployed AI-powered iOS pronunciation product.
-
-Much of my professional, product, and research work is held in private repositories because it was completed for companies, research groups, academic courses, or production applications.
-
-## Interests Outside of Tech and AI
-
-Outside of engineering, I enjoy surfing, rugby, basketball and the NBA, filmmaking and movies, staying up to date with the news on business, attention economy, and global affairs.
+Surfing, rugby, the NBA, filmmaking, business, and global affairs.
