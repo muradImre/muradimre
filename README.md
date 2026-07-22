@@ -6,7 +6,7 @@ Currently building speech-analysis and pronunciation-feedback features at **Tajw
 
 ## Featured Projects
 
-* **database-design** — Go, REST APIs, JSON Schema, concurrency, NoSQL
+* **database-design** — B-tree, Go, REST APIs, concurrency, NoSQL
 * **Probabilistic Filter Experiments** — Bloom, Counting Bloom, and Cuckoo filters
 * **Intra-Domain Routing Engine** — C++, Distance Vector routing, fault recovery
 * **AI Pronunciation Trainer** — Speech analysis and structured feedback
